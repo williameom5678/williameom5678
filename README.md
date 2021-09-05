@@ -22,7 +22,7 @@ Fun Fact : HTML is ~~NOT~~ a programming Language
 ## Projects
 
 - ACHOO BOT(Kakaotalk)
-- ACHOO DISCORD BOT
+- [ACHOO DISCORD BOT](https://discord.com/oauth2/authorize?client_id=713656780374147102&permissions=8&scope=bot)
 - ~~Sleeping~~
 <!--
 **williameom5678/williameom5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
