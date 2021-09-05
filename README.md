@@ -14,7 +14,7 @@ WHAT THE HELL ARE YOU DOING ON MY PROFILE???<br>
 - Javascript
 - ~~HTML~~
 
-Fun Fact : HTML is ~~NOT~~a programming Language
+Fun Fact : HTML is ~~NOT~~ a programming Language
 
 ## Projects
 
