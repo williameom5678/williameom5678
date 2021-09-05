@@ -10,11 +10,17 @@ WHAT THE HELL ARE YOU DOING ON MY PROFILE???<br>
 
 - Java
 - C
-- Assembly
+- IA-32 Intel syntax Assembly
 - Javascript
 - ~~HTML~~
 
 Fun Fact : HTML is ~~NOT~~a programming Language
+
+## Projects
+
+- ACHOO BOT(Kakaotalk)
+- ACHOO DISCORD BOT
+- ~~Sleeping~~
 <!--
 **williameom5678/williameom5678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
