@@ -15,6 +15,7 @@ WHAT THE HELL ARE YOU DOING ON MY PROFILE???<br>
 - C
 - IA-32 Intel syntax Assembly
 - Javascript
+- PHP
 - ~~HTML~~
 
 Fun Fact : HTML is ~~NOT~~ a programming Language
