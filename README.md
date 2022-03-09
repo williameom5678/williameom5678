@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=williameom5678&show_icons=true&count_private=true&include_all_commits=true" /><br>
-github-metrics.svg
+<img align="left" src="github-metrics.svg" /><br>
 
 ### 👋 Hi!~~Bye!~~
 
