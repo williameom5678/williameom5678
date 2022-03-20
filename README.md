@@ -1,3 +1,24 @@
+```c
+#include <stdio.h>
+
+#define l int
+#define lo main
+#define lol (
+#define loll )
+#define lollo {
+#define lollol }
+#define lolloll printf
+#define lollollo ;
+#define lollollol return
+#define lollolloll "Hello, World!"
+
+l lo lol loll lollo
+    lolloll lol lollolloll loll lollollo
+    lollollol 0 lollollo
+lollol
+```
+
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=williameom5678&show_icons=true&count_private=true&include_all_commits=true" /><br>
 <img align="right" src="https://github.com/williameom5678/williameom5678/blob/main/github-metrics.svg" /><br>
 
