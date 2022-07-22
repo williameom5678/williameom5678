@@ -11,10 +11,11 @@
 #define lollollo ;
 #define lollollol return
 #define lollolloll "Hello, World!"
+#define lollollollo 0
 
 l lo lol loll lollo
     lolloll lol lollolloll loll lollollo
-    lollollol 0 lollollo
+    lollollol lollollollo lollollo
 lollol
 ```
 
