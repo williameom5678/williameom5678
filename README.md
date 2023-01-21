@@ -35,7 +35,7 @@ WHAT THE HELL ARE YOU DOING ON MY PROFILE???<br>
 ## Learning Languages
 
 - Java
-- C
+- C/C++
 - IA-32 Intel syntax Assembly
 - Javascript
 - PHP
