@@ -21,7 +21,7 @@ lollol
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=williameom5678&show_icons=true&count_private=true&include_all_commits=true" /><br>
-<img align="left" src="https://github.com/williameom5678/williameom5678/blob/main/github-metrics.svg" /><br><br>
+<img align="right" src="https://github.com/williameom5678/williameom5678/blob/main/github-metrics.svg" /><br><br>
 
 ### 👋 Hi!~~Bye!~~
 
