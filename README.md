@@ -37,7 +37,7 @@ WHAT THE HELL ARE YOU DOING ON MY PROFILE???<br>
 - Java
 - C/C++
 - IA-32 Intel syntax Assembly
-- Javascript
+- Javascript(*Mostly Node.JS*)
 - PHP
 - ~~HTML~~
 
@@ -46,7 +46,7 @@ Fun Fact : HTML is ~~NOT~~ a programming Language
 ## Other Stuffs
 
 - Blender
-- SolidWorks
+- SolidWorks 2024
 - PhotoShop
 
 
