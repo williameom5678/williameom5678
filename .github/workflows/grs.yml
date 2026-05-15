@@ -5,6 +5,10 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -26,4 +30,4 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git pull --rebase origin main
-          git push --force-with-lease
+          git push
