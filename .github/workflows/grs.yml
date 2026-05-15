@@ -26,4 +26,4 @@ jobs:
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git pull --rebase origin main
-          git push
+          git push --force-with-lease
