@@ -8,7 +8,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    # runs-on: ubuntu-latest
     steps:
       - uses: williameom5678/metrics@master
         with:
